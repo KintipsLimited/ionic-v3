@@ -144,6 +144,5 @@
     },
     "ionic_copy": "./scripts/demos/copy.config.js"
   },
-  "pre-push#master": [
-  ]
+  "pre-push#master": []
 }
